@@ -53,7 +53,7 @@ function calcular() {
     case "-":
       calculo = anterior - actual;
       break;
-    case "x":
+    case "X":
       calculo = anterior * actual;
       break;
     case "/":
